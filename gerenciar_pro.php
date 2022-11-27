@@ -789,7 +789,9 @@ section {
                   </div>
               </div>
               <br>
+              <div class="input-container">
               <input type="date" required="" name='data'>
+              </div>
               <p>
               <div class="input-container">		
               <input type="number" required="" name='valpro' step='0.01' min='0'/>
