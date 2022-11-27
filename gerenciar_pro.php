@@ -790,7 +790,6 @@ section {
               </div>
               <br>
               <input type="date" required="" name='data'>
-              <label>Data:</label>
               <p>
               <div class="input-container">		
               <input type="number" required="" name='valpro' step='0.01' min='0'/>
