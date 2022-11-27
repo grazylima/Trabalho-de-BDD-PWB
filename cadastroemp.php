@@ -732,32 +732,32 @@ section {
           <br>
             <form action='' method='get'>
               <div class="input-container">		
-              <input type="text" required="" name='nome' />
+              <input type="text" required="" name='nome' autocomplete='off' />
               <label>Nome:</label>
               </div>
 
               <div class="input-container">		
-              <input type="text" required="" name='endereco' />
+              <input type="text" required="" name='endereco' autocomplete='off' />
               <label>Endereço:</label>
               </div>
 
               <div class="input-container">		
-              <input type="number" required="" name='numero' />
+              <input type="number" required="" name='numero' autocomplete='off' />
               <label>Número:</label>
               </div>
 
               <div class="input-container">		
-              <input type="text" required="" name='bairro' />
+              <input type="text" required="" name='bairro' autocomplete='off' />
               <label>Bairro:</label>
               </div>
 
               <div class="input-container">		
-              <input type="text" required="" name='cidade' />
+              <input type="text" required="" name='cidade' autocomplete='off' />
               <label>Cidade:</label>
               </div>
 
               <div class="input-container">		
-              <input type="text" required="" name='telefone' />
+              <input type="text" required="" name='telefone' autocomplete='off' />
               <label>Telefone:</label>
               </div>
              
