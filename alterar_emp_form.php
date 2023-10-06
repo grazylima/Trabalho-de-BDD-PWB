@@ -35,7 +35,8 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Gp - v4.7.0
+  * Template Name: Gp - v4.7.0 buahahahahaha
+  abuubuausbuauba
   * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
